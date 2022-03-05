@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Avinash Chavan</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=avinashchavan1&label=Profile%20views&color=0e75b6&style=flat" alt="avinashchavan1" /> </p>
+
 
 - 👨‍💻 All of my projects are available at [avichavan.com](avichavan.com)
 
