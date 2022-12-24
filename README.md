@@ -3,7 +3,7 @@
 
 
 
-- 👨‍💻 All of my projects are available at [avichavan.com](http://avichavan.com)
+- 👨‍💻 All of my projects are available at [avinashchavan.com](http://avinashchavan.com)
 
 - 📫 How to reach me **avinashchavan1443@gmail.com**
 
