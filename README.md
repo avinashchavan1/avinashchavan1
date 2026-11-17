@@ -2,11 +2,11 @@
 <h3 align="center">A passionate Software developer from India</h3>
 
 <p align="center">
-  <a href="showreel/avinash-chavan-showreel.mp4">
+  <a href="https://avinashchavan.com/showreel.html">
     <img src="showreel/showreel-preview.gif" alt="Avinash Chavan showreel: full-stack engineer, Java and Spring Boot behind, React in front" width="720" />
   </a>
   <br />
-  <sub>▶ <a href="showreel/avinash-chavan-showreel.mp4">Watch the full 60-second showreel with sound</a></sub>
+  <sub>▶ <a href="https://avinashchavan.com/showreel.html">Watch the full 60-second showreel with sound</a></sub>
 </p>
 
 
