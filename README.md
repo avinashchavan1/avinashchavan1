@@ -6,7 +6,7 @@
     <img src="showreel/showreel-preview.gif" alt="Avinash Chavan showreel: full-stack engineer, Java and Spring Boot behind, React in front" width="720" />
   </a>
   <br />
-  <sub>▶ <a href="showreel/avinash-chavan-showreel.mp4">Watch the full 60-second showreel with sound</a> · made with <a href="https://hyperframes.heygen.com">HyperFrames</a></sub>
+  <sub>▶ <a href="showreel/avinash-chavan-showreel.mp4">Watch the full 60-second showreel with sound</a></sub>
 </p>
 
 
