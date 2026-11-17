@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Avinash Chavan</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
+<p align="center">
+  <a href="showreel/avinash-chavan-showreel.mp4">
+    <img src="showreel/showreel-preview.gif" alt="Avinash Chavan showreel: full-stack engineer, Java and Spring Boot behind, React in front" width="720" />
+  </a>
+  <br />
+  <sub>▶ <a href="showreel/avinash-chavan-showreel.mp4">Watch the full 60-second showreel with sound</a> · made with <a href="https://hyperframes.heygen.com">HyperFrames</a></sub>
+</p>
+
 
 
 - 👨‍💻 All of my projects are available at [avinashchavan.com](http://avinashchavan.com)
